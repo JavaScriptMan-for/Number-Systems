@@ -1,0 +1,22 @@
+{
+  "name": "number-systems",
+  "version": "1.0.0",
+  "description": "Library for work with numbers in different number system",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "puma1st",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScriptMan-for/Number-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JavaScriptMan-for/Number-System/issues"
+  },
+  "homepage": "https://github.com/JavaScriptMan-for/Number-System#readme"
+}
