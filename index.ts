@@ -1,4 +1,3 @@
-export namespace NumberSystems {
 
 /**
  * @function getValueSymbol returns the value of a specific character
@@ -126,5 +125,4 @@ export function int(num: string | number, from_system?: number) {
     if(!checkNumberOnNumberSystem(num, sys)) throw new Error("Число находиться не в данной Вами системе счисления")
 
     return parseInt(num.toString(), sys)
-}
 }

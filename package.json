@@ -4,6 +4,7 @@
   "description": "Library for work with numbers in different number system",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "start": "ts-node index.ts",
     "build": "tsc"
