@@ -1,6 +1,6 @@
 {
   "name": "number-systems",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for work with numbers in different number system",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,15 @@
     "start": "ts-node index.ts",
     "build": "tsc"
   },
-  "keywords": ["number", "system", "number-systems", "systems", "bin", "hex", "oct"],
+  "keywords": [
+    "number",
+    "system",
+    "number-systems",
+    "systems",
+    "bin",
+    "hex",
+    "oct"
+  ],
   "author": "puma1st",
   "license": "MIT",
   "repository": {
