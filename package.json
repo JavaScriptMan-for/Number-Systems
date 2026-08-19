@@ -1,6 +1,6 @@
 {
   "name": "number-systems",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Library for work with numbers in different number system",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
