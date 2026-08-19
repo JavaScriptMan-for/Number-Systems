@@ -126,3 +126,18 @@ export function int(num: string | number, from_system?: number) {
 
     return parseInt(num.toString(), sys)
 }
+
+/**
+ * @object imports on default
+ */
+const NS = {
+    getValueSymbol,
+    updateNumberSystem,
+    checkNumberOnNumberSystem,
+    bin,
+    hex,
+    oct,
+    int,
+}
+
+export default NS;
