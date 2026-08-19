@@ -11,7 +11,7 @@
     "start": "ts-node index.ts",
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["number", "system", "number-systems", "systems", "bin", "hex", "oct"],
   "author": "puma1st",
   "license": "MIT",
   "repository": {
